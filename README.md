@@ -7,7 +7,7 @@ This is a web based application developed for health based website in india
 
 **Project Link** -https://polite-coast-0733ba800.3.azurestaticapps.net/
 
-**DEMO VIDEO LINK** -
+**DEMO VIDEO LINK** -https://youtu.be/7rTWnUU_uJY
 
 ## AZURE TECHNOLOGIES USED FOR PROJECT:-
 -> STATIC WEB APPS
