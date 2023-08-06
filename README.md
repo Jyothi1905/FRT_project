@@ -11,6 +11,7 @@ This is a web based application developed for health based website in india
 
 ## AZURE TECHNOLOGIES USED FOR PROJECT:-
 -> STATIC WEB APPS
+
 -> HEALTH BOT
 
 ## Features and Functionalities 
@@ -28,9 +29,10 @@ This is a web based application developed for health based website in india
 ![Screenshot (1)](https://github.com/Jyothi1905/profrt/assets/124034217/8a41851c-176e-4208-8043-b7c270742868)
 
 
-### Events - 
+### Services - 
 
-![Screenshot (2)](https://github.com/Jyothi1905/profrt/assets/124034217/1283aa20-6a40-4de9-8dd7-edc7c641743d)
+![Screenshot (5)](https://github.com/Jyothi1905/profrt/assets/124034217/0080d013-6e10-4811-be22-ff5e9909688b)
+
 
 ### Contact Us -
 
